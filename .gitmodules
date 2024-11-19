@@ -1,0 +1,12 @@
+[submodule "egui_winit_vulkano"]
+	path = egui_winit_vulkano
+	url = https://github.com/allie-m/my-egui-winit-vulkano-fork.git
+[submodule "egui"]
+	path = egui
+	url = https://github.com/allie-m/my-egui-fork.git
+[submodule "vulkano"]
+	path = vulkano
+	url = https://github.com/allie-m/my-vulkano-fork.git
+[submodule "spacetime-raytracer"]
+	path = spacetime-raytracer
+	url = https://github.com/ccs-cs1l-f24/spacetime-raytracer.git
