@@ -13,7 +13,7 @@ To build and run the project, run
 
 ```
 git clone --recurse-submodules https://github.com/ccs-cs1l-f24/spacetime-raytracer-monorepo.git
-cd spacetime-raytracer
+cd spacetime-raytracer-monorepo/spacetime-raytracer
 cargo run
 ```
 
