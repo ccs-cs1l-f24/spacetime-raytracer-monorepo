@@ -9,6 +9,8 @@ Refer to the spacetime-raytracer submodule for the interesting code. The other s
 
 Controls: for now, we use WASD to move and P to pause/unpause.
 
+DISCLAIMER: this project *should* work on Windows and MacOS, but it is tested primarily on a Linux machine.
+
 ## Build Instructions
 
 To build and run the project, run
@@ -34,6 +36,6 @@ Optional dependencies
 
 If you're running MacOS, you will need to have MoltenVK installed for Vulkan to work.
 
-Applications using Vulkan will typically bundle MoltenVK, but I don't have a reference mac to test on.
+Applications using Vulkan will typically bundle MoltenVK, but I don't have a reference mac to test with.
 
 You can either install it [through brew](https://formulae.brew.sh/formula/molten-vk) or as part of the [Vulkan SDK](https://vulkan.lunarg.com/sdk/home#mac).
