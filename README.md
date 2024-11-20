@@ -7,6 +7,8 @@ This is the monorepo for my spacetime softbody raytracer project :D
 
 Refer to the spacetime-raytracer submodule for the interesting code. The other submodules are my custom forks of a few Rust libraries used by spacetime-raytracer.
 
+Controls: for now, we use WASD to move and P to pause/unpause.
+
 ## Build Instructions
 
 To build and run the project, run
